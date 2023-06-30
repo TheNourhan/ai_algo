@@ -1,0 +1,400 @@
+Solution 1:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 2:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 3:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 4:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.00
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 5:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 6:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 6.17
+Average differences = 2.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 7:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 8:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.00
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 9:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.33
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 10:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 11:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 12:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 6.17
+Average differences = 2.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 13:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.17
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 14:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 15:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 16:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.33
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 17:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 18:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 19:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.00
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 20:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 21:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 22:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 23:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 6.17
+Average differences = 2.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 24:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 25:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.17
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 26:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.17
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 27:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.17
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 28:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.17
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 29:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 30:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 5.33
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 31:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 32:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.33
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 33:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 34:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 35:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 36:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 37:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 7.00
+Average differences = 2.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 38:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.00
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 39:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 40:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 41:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 5.33
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 42:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.17
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 43:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 7.00
+Average differences = 2.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 44:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 45:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 46:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 47:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 48:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 7.00
+Average differences = 2.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 49:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 3.67
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
+Solution 50:
+Total Time= 20
+Total_time/Steps = 6.00
+Total differences = 4.17
+Average differences = 1.00
+Max Time = 20
+Min Time = 3.6666666666666665
+----------------------------------------------------------
